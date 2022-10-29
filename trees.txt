@@ -2,3 +2,4 @@ oak
 pine
 Yellow Birch
 Butternut
+Black Cherry
